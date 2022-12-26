@@ -1,0 +1,14 @@
+[13:25:44] [Model]: Loading ./pretrained...                                                                                                model.py:183
+                                                                                                                                                       
+[13:25:46] [Data]: Reading data...                                                                                                         model.py:194
+                                                                                                                                                       
+FULL Dataset: (285891, 2)
+TRAIN Dataset: (268738, 2)
+TEST Dataset: (17153, 2)
+
+Total Train Steps: 19195
+
+           [Initiating Fine Tuning]...                                                                                                     model.py:258
+                                                                                                                                                       
+[16:02:42] [Saving Model]...                                                                                                               model.py:265
+                                                                                                                                                       
