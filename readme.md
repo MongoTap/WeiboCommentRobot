@@ -10,7 +10,7 @@
 
 <table>
 	<tr>
-		<td style="width: 60%"><strong>原微博</strong></td>
+		<td style="width: 550px"><strong>原微博</strong></td>
 		<td><strong>生成的评论</strong></td>
 	</tr>
 	<tr>
